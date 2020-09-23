@@ -1,0 +1,3 @@
+[submodule "conflict-demo"]
+	path = conflict-demo
+	url = git@github.com:Vitaliy-Yarovuy/conflict-demo.git
